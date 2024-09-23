@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Millares;I'm+22+years+old;I+from+Brazil;I'm+Majoring+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Millares;I'm+24+years+old;I+from+Brazil;I'm+Majoring+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiMillares&show_icons=true&count_private=true&hide_border=true&title_color=483D8Bicon_color=483D8B&text_color=ADD8E6&bg_color=0d1117" alt="Guilherme Millares github stats" />
