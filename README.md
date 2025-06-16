@@ -4,16 +4,12 @@
 
 ## 👨‍💻 Sobre mim:
 
-🎮 Olá, gamer! Eu sou o **Guilherme Millares**, um **desenvolvedor** que adora **criar mundos**, quer dizer, **códigos**!  
-✨ Sempre atrás de **side quests**, aumentando minhas **skills** e vencendo cada **desafio** que aparece pelo caminho.  
-🚀 Profissão: *Developer*.  
-🎮 Nível atual: 24 (anos de experiência na jornada da vida!)
+Olá! Eu sou o **Guilherme Millares**, um **desenvolvedor** que adora aprender, compartilhar conhecimento e dar vida às minhas ideias com o **código**.  
+Buscando sempre me atualizar nas últimas tendências, aumentando minhas **habilidades** e vencendo novos **desafios** junto com a comunidade.  
 
 ---
 
 ## 📈 Minhas Contribuição Diárias:
-
-> Veja o histórico das minhas contribuição diárias como se ele aparecesse nas suas questlogs!  
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiMillares&bg_color=0d1117&color=add8e6&line=1e90ff&point=00ffff&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -29,7 +25,7 @@
 
 ## ⚙ Minhas Stack:
 
-> **Bosses que já derrotei:**  
+> Tecnologias que uso pra dar power-up nos projetos:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-Gui-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
@@ -49,11 +45,10 @@
 
 ---
 
-✨ **Vamos upar junto?**  
-→ Me siga!  
-→ Entre nas minhas quests!  
-→ Contribute para nossos projetos compartilhados!  
-→ Glória, XP e diversão estão garantidos! 🍕🎮
+✨ **Vamos compartilhar conhecimentos e criar projetos junto!**  
+→ Siga o meu GitHub  
+→ Contribua para nossos projetos  
+→ Entre nas quests! 🍕🎮
 
 ---
 
