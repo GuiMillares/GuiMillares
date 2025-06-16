@@ -1,54 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Guilherme Millares</h1>
+<h3 align="center">a **developer** who loves to learn, share knowledge and bring my ideas to life with **code**. Always seeking to keep up to date with the latest trends, improving my **skills** and overcoming new **challenges**.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Millares;I'm+24+years+old;I+from+Brazil;I+have+a+degree+in+Computer+Science;Let's+level+up+together!+🎮)](https://git.io/typing-svg)
+- 🔭 I’m currently working on **Synchro**
 
-## 👨‍💻 Sobre mim:
+- 🌱 I’m currently learning **React, Javascript, Typescript**
 
-Olá! Eu sou o **Guilherme Millares**, um **desenvolvedor** que adora aprender, compartilhar conhecimento e dar vida às minhas ideias com o **código**.  
-Buscando sempre me atualizar nas últimas tendências, aumentando minhas **habilidades** e vencendo novos **desafios** junto com a comunidade.  
+- 💬 Ask me about **Cybersecurity, Java**
 
----
+- 📫 How to reach me **guilhermec.millares@gmail.com**
 
-## 📈 Minhas Contribuição Diárias:
-
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiMillares&bg_color=0d1117&color=add8e6&line=1e90ff&point=00ffff&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Meus Troféus:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuiMillares&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" alt="Troféus do Guilherme" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guilherme castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme castro" height="30" width="40" /></a>
+<a href="https://instagram.com/guii.c4stro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guii.c4stro" height="30" width="40" /></a>
+<a href="https://discord.gg/guizao0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guizao0912" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## ⚙ Minhas Stack:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guimillares&show_icons=true&locale=en&layout=compact" alt="guimillares" /></p>
 
-> Tecnologias que uso pra dar power-up nos projetos:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Gui-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
----
-
-## 📊 Minhas Stats:
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiMillares&show_icons=false&count_private=false&hide_border=false&title_color=483D8B&text_color=ADD8E6&bg_color=0d1117" alt="Guilherme Millares github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMillares&layout=compact&hide_border=false&title_color=483D8B&text_color=ADD8E6&bg_color=0d1117" alt="Linguagens utilizadas" />
-</div>
-
----
-
-✨ **Vamos compartilhar conhecimentos e criar projetos junto!**  
-→ Siga o meu GitHub  
-→ Contribua para nossos projetos  
-→ Entre nas quests! 🍕🎮
-
----
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guimillares&show_icons=true&locale=en" alt="guimillares" /></p>
