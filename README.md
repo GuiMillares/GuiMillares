@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Millares</h1>
 <h3 align="center">A developer who loves to learn, share knowledge and bring my ideas to life with code. Always seeking to keep up to date with the latest trends, improving my skills and overcoming new challenges.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guimillares" alt="guimillares" /></a> </p>
-
 - 🔭 I’m currently working on **Synchro**
 
 - 🌱 I’m currently learning **React, Javascript, Typescript**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guimillares&show_icons=true&locale=en&layout=compact" alt="guimillares" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guimillares&show_icons=true&locale=en" alt="guimillares" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guimillares&" alt="guimillares" /></p>
