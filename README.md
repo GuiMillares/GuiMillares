@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Millares</h1>
-<h3 align="center">a **developer** who loves to learn, share knowledge and bring my ideas to life with **code**. Always seeking to keep up to date with the latest trends, improving my **skills** and overcoming new **challenges**.</h3>
+<h3 align="center">A developer who loves to learn, share knowledge and bring my ideas to life with code. Always seeking to keep up to date with the latest trends, improving my skills and overcoming new challenges.</h3>
 
 - 🔭 I’m currently working on **Synchro**
 
