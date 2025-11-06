@@ -5,7 +5,7 @@ Hi 👋, I'm **Guilherme Millares**
 A developer who loves to learn, share knowledge, and bring my ideas to life with code.  
 Always seeking to keep up to date with the latest trends, improving my skills and overcoming new challenges.  
 
-- 🔭 I’m currently working on **Fix Fibra**  
+- 🔭 I’m currently working on **Fix Fibra** & **Castro Tech**  
 - 🌱 I’m currently learning **React, Javascript, Typescript**  
 - 💬 Ask me about **Cybersecurity, Java**  
 - 📫 How to reach me: [guilhermec.millares@gmail.com](mailto:guilhermec.millares@gmail.com)
