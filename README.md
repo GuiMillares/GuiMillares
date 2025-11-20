@@ -26,7 +26,5 @@ I have 3 years of experience in technical support, where I developed a strong in
 
 ### ✍️ Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Bazinga&author=Cooper%2C%20Sheldon)
-
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
