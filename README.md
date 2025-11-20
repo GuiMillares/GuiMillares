@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://uk.pinterest.com/pin/sung-jin-woo-solo-leveling-gif-sung-jin-woo-solo-leveling-discover-and-share-gifs-in-2025--52635889390358383/)"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/33/bd/d7/33bdd73f8ed677ef20a71935341b5c22.gif"  />
 
 ###
 
