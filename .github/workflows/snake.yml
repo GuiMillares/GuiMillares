@@ -13,12 +13,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      # Snake para modo claro
+      - name: Generate Snake (Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: GuiMillares
           outputs: |
-            dist/snake.svg
+            dist/snake-light.svg
+
+      # Snake para modo escuro
+      - name: Generate Snake (Dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: GuiMillares
+          color_snake: '#00ff00'
+          color_dots: '#444444'
+          outputs: |
+            dist/snake-dark.svg
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
